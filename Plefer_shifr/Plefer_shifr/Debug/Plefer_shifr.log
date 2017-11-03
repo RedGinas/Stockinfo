@@ -1,0 +1,3 @@
+﻿  Function.cpp
+Function.cpp(62): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Plefer_shifr.vcxproj -> C:\Users\Roma\documents\visual studio 2017\Projects\Plefer_shifr\Debug\Plefer_shifr.exe
