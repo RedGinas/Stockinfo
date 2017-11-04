@@ -111,20 +111,20 @@ String^ Main::Shifr(String ^str) {
 		}
 		if (stri1 == stri2 || strj1 == strj2) {
 			if (strj1 == strj2) {
+				if (stri1 != 4)
+					zamena1 += table[stri1+1][strj1];
+				else zamena1 += table[0][strj1];
+				if (stri2 != 4)
+					zamena2 += table[stri2+1][strj2];
+				else zamena2 += table[0][strj2];
+			}
+			if (stri1 == stri2) {
 				if (strj1 != 7)
-					zamena1 += table[stri1][strj1 + 1];
+					zamena1 += table[stri1][strj1+1];
 				else zamena1 += table[stri1][0];
 				if (strj2 != 7)
 					zamena2 += table[stri2][strj2 + 1];
 				else zamena2 += table[stri2][0];
-			}
-			if (stri1 == stri2) {
-				if (stri1 != 4)
-					zamena1 += table[stri1 + 1][strj1];
-				else zamena1 += table[0][strj1];
-				if (stri2 != 4)
-					zamena2 += table[stri2 + 1][strj2];
-				else zamena2 += table[0][strj2];
 			}
 		}
 		else {
@@ -163,20 +163,20 @@ String^ Main::De_Shifr(String ^str) {
 		}
 		if (stri1 == stri2 || strj1 == strj2) {
 			if (strj1 == strj2) {
-				if (strj1 != 0)
-					zamena1 += table[stri1][strj1 - 1];
-				else zamena1 += table[stri1][7];
-				if (strj2 != 0)
-					zamena2 += table[stri2][strj2 - 1];
-				else zamena2 += table[stri2][7];
-			}
-			if (stri1 == stri2) {
 				if (stri1 != 0)
 					zamena1 += table[stri1 - 1][strj1];
 				else zamena1 += table[4][strj1];
 				if (stri2 != 0)
 					zamena2 += table[stri2 - 1][strj2];
 				else zamena2 += table[4][strj2];
+			}
+			if (stri1 == stri2) {
+				if (strj1 != 0)
+					zamena1 += table[stri1][strj1 - 1];
+				else zamena1 += table[stri1][7];
+				if (strj2 != 0)
+					zamena2 += table[stri2][strj2 - 1];
+				else zamena2 += table[stri2][7];
 			}
 		}
 		else {

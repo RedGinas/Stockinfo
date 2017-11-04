@@ -1,2 +1,3 @@
 ﻿  Function.cpp
 Function.cpp(62): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Plefer_shifr.vcxproj -> D:\OSPanel\domains\Stockinfo\Plefer_shifr\x64\Debug\Plefer_shifr.exe
