@@ -1,0 +1,19 @@
+C:\Users\Toshik_Or\Desktop\Toshik\ShifrXOR\ShifrXOR\bin\Debug\ShifrXOR.exe.config
+C:\Users\Toshik_Or\Desktop\Toshik\ShifrXOR\ShifrXOR\obj\Debug\ShifrXOR.csprojResolveAssemblyReference.cache
+C:\Users\Toshik_Or\Desktop\Toshik\ShifrXOR\ShifrXOR\bin\Debug\ShifrXOR.exe
+C:\Users\Toshik_Or\Desktop\Toshik\ShifrXOR\ShifrXOR\bin\Debug\ShifrXOR.pdb
+C:\Users\Toshik_Or\Desktop\Toshik\ShifrXOR\ShifrXOR\obj\Debug\ShifrXOR.exe
+C:\Users\Toshik_Or\Desktop\Toshik\ShifrXOR\ShifrXOR\obj\Debug\ShifrXOR.pdb
+C:\Users\Toshik_Or\Desktop\Защита\ЛР 5\ShifrXOR\ShifrXOR\bin\Debug\ShifrXOR.exe.config
+C:\Users\Toshik_Or\Desktop\Защита\ЛР 5\ShifrXOR\ShifrXOR\obj\Debug\ShifrXOR.exe
+C:\Users\Toshik_Or\Desktop\Защита\ЛР 5\ShifrXOR\ShifrXOR\obj\Debug\ShifrXOR.pdb
+C:\Users\Toshik_Or\Desktop\Защита\ЛР 5\ShifrXOR\ShifrXOR\bin\Debug\ShifrXOR.exe
+C:\Users\Toshik_Or\Desktop\Защита\ЛР 5\ShifrXOR\ShifrXOR\bin\Debug\ShifrXOR.pdb
+C:\Users\Toshik_Or\Desktop\Защита\ЛР 5\ShifrXOR\ShifrXOR\obj\Debug\ShifrXOR.csprojResolveAssemblyReference.cache
+C:\Users\Roma\Desktop\защитаКи\ЛР 5\ShifrXOR\ShifrXOR\bin\Debug\ShifrXOR.exe.config
+C:\Users\Roma\Desktop\защитаКи\ЛР 5\ShifrXOR\ShifrXOR\bin\Debug\ShifrXOR.exe
+C:\Users\Roma\Desktop\защитаКи\ЛР 5\ShifrXOR\ShifrXOR\bin\Debug\ShifrXOR.pdb
+C:\Users\Roma\Desktop\защитаКи\ЛР 5\ShifrXOR\ShifrXOR\obj\Debug\ShifrXOR.csprojResolveAssemblyReference.cache
+C:\Users\Roma\Desktop\защитаКи\ЛР 5\ShifrXOR\ShifrXOR\obj\Debug\ShifrXOR.csproj.CoreCompileInputs.cache
+C:\Users\Roma\Desktop\защитаКи\ЛР 5\ShifrXOR\ShifrXOR\obj\Debug\ShifrXOR.exe
+C:\Users\Roma\Desktop\защитаКи\ЛР 5\ShifrXOR\ShifrXOR\obj\Debug\ShifrXOR.pdb
